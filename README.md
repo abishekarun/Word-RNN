@@ -2,7 +2,7 @@
 
 In this project, we try to train a Word level language model using RNN on The Da Vinci Code book.
 
-The Jupyter notebook with standard rnn model can be found [here](https://nbviewer.jupyter.org/github/abishekarun/Character-RNN/Word_RNN.ipynb).
+The Jupyter notebook with standard rnn model can be found [here](https://nbviewer.jupyter.org/github/abishekarun/Word-RNN/blob/master/Word_RNN.ipynb).
 
 The resources that helped me are:
 
